@@ -1,4 +1,3 @@
-# Arduino
 ## My Arduino sketches
 
 This repository contains a few simple projects from the [Arduino starter kit](https://store.arduino.cc/genuino-starter-kit) book.
